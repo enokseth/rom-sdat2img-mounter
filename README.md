@@ -1,5 +1,5 @@
 # rom-sdat2img-mounter
-[!screenshot](screenshot.png)
+![screenshot](screenshot.png)
 
 ## Introduction
 
